@@ -116,7 +116,6 @@ class Spacecraft {
                     this.turnDown();
                     break;
                 default:
-                    // Ignore invalid commands
                     break;
             }
         }
